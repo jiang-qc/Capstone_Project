@@ -6,7 +6,7 @@ Wordle is a word guessing game where the user must guess a 5 letter word within 
 2. In the word, but not in the given position. (False position)
 3. In the word, at the guessed position. (True prediction)
 
-![title](Wordle.png)
+![title](wordle.png)
 
 There are two tasks in the coding challenge:
 
