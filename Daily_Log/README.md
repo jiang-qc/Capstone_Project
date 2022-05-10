@@ -52,3 +52,10 @@ Automate the steps leading up to production.
 - Another concern is the bias behind the data because the responses from strudents are subjective.
 - When training data, the features might be corelated. To achieve a better performance, random forest models might be better than regression models.
 - Jungyeul proposed to use transformer because we are dealing with text data. Neural networks might performs better. 
+
+
+## 2022/05/09 
+
+- Met with Jungyeul and confirmed that we are gonna use Transformer as the baseline model.
+- We need to get the baselone before May 20 and after that we will try to add some complex linguistic features.
+- I extracted the text from srt files, using regex to exclude the timestamps and special tokens
