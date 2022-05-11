@@ -1,6 +1,6 @@
 # Daily Log
 
-## 5.2 Jigsaw Activity
+## 2022/05/02 Jigsaw Activity
 
 - Maximizing Collective Intelligence: the shared or group intelligence that emerges from the collaboration, collective efforts, and competition of many individuals and appears in consensus decision
 making
@@ -15,7 +15,7 @@ negative emotional interactions between two or more people
 - Psychological Safety: a belief that you won’t be punished when you make a mistake
 
 
-## 5.3 Conception to Deployment + Coding Challenge Day
+## 2022/05/03 Conception to Deployment + Coding Challenge Day
 
 Useful tools in teamwork:
 Git 
@@ -46,7 +46,7 @@ Builds on foundations of build and test automation from CI
 Automate the steps leading up to production.
 
 
-## 5.4 Team Contract and EDA
+## 2022/05/04 Team Contract and EDA
 
 - The data is structured but umbalanced. We might need to do some preprocessing and cleaning.
 - Another concern is the bias behind the data because the responses from strudents are subjective.
@@ -58,4 +58,10 @@ Automate the steps leading up to production.
 
 - Met with Jungyeul and confirmed that we are gonna use Transformer as the baseline model.
 - We need to get the baselone before May 20 and after that we will try to add some complex linguistic features.
+
+## 2022/05/10
 - I extracted the text from srt files, using regex to exclude the timestamps and special tokens
+
+## 2022/05/11
+- We met with CFI partner, presented what we have done and discussed what we should do in the following week.
+- We finished the project plan.
