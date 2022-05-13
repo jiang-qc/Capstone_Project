@@ -36,11 +36,11 @@ negative emotional interactions between two or more people
 ## 2022/05/10
 - I extracted the text from srt files, using regex to exclude the timestamps and special tokens
 
-## 2022/05/12
+## 2022/05/11
 - We met with CFI partner, presented what we have done and discussed what we should do in the following week.
 - We finished the project plan.
 
-## 2022/05/11
+## 2022/05/12
 - Read the Long-Document Transformer paper to see how can we apply it to our model
 
 ## 2022/05/13
