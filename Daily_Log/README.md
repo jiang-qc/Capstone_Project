@@ -27,11 +27,18 @@ negative emotional interactions between two or more people
 - When training data, the features might be corelated. To achieve a better performance, random forest models might be better than regression models.
 - Jungyeul proposed to use transformer because we are dealing with text data. Neural networks might performs better. 
 
+## 2022/05/05
+
+- I reviewed the EDA code, structured the notebook and wrote some reviews about the code.
+
+## 2022/05/06 
+
+- I read some papers about applying machine learning model to course evaluation.
 
 ## 2022/05/09 
 
 - Met with Jungyeul and confirmed that we are gonna use Transformer as the baseline model.
-- We need to get the baselone before May 20 and after that we will try to add some complex linguistic features.
+- We need to get the baseline before May 20 and after that we will try to add some complex linguistic features.
 
 ## 2022/05/10
 - I extracted the text from srt files, using regex to exclude the timestamps and special tokens
@@ -46,3 +53,4 @@ negative emotional interactions between two or more people
 ## 2022/05/13
 - I attended the Scott Mackie's talk about working in Amazon online.
 - We had a meeting to discuss the what we should present on the meeting with Jungyeul.
+- I used pysrt to extract the transcript and duration of each course and made them a dataframe.
