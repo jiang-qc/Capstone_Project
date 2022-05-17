@@ -55,6 +55,21 @@ negative emotional interactions between two or more people
 - We had a meeting to discuss the what we should present on the meeting with Jungyeul.
 - I used pysrt to extract the transcript and duration of each course and made them a dataframe.
 
+## 2022/05/13 Reflection on Friday Speaker Series 1
+
+
+
+
+
+
+## 2022/05/15 Code Review
+1. Whose code are you reviewing, and where can the review be found?
+  - I'm reviewing Xinyi and Chao's EDA code which can be found in the [shared notebook](https://colab.research.google.com/drive/1m8aMhuFXtgO7hhz9OMt_rWaap_GBK0HF#scrollTo=aIjjdXOq7HUA)
+  - I organized the the notebook and documented some code to make them more understandable.
+
+2. Where is one review of your code that you found particualrly helpful? What was helpful about it?
+  - In order to aggregate and compare the features engineered by different teammates, I'd better store them as a dataframe.
+
 ## 2022/05/16
 - We met with Jungyeul to discussion the two indications we've came up with, and the next step of our project.
 
