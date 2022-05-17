@@ -54,3 +54,8 @@ negative emotional interactions between two or more people
 - I attended the Scott Mackie's talk about working in Amazon online.
 - We had a meeting to discuss the what we should present on the meeting with Jungyeul.
 - I used pysrt to extract the transcript and duration of each course and made them a dataframe.
+
+## 2022/05/16
+- We met with Jungyeul to discussion the two indications we've came up with, and the next step of our project.
+
+## 2022/05/17
