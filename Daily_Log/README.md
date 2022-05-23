@@ -74,3 +74,20 @@ negative emotional interactions between two or more people
 - We met with Jungyeul to discussion the two indications we've came up with, and the next step of our project.
 
 ## 2022/05/17
+- We 
+
+## 2022/05/18
+
+## 2022/05/19
+
+
+## 2022/05/20
+- I attended the friday talk and wrote the reflection about it.
+
+## 2022/05/20 Reflection on Friday Speaker Series 2
+
+1. MLOps is the fusion of traditional DevOps processes in the context of data science and machine learning. ML processes are data-centric contrasted with the code-centric philosophy of DevOps. Taking learnings and methodologies from DevOps and applying them to the context of Data and ML yields an operating model termed MLOps or DataOps.
+2. DataOps is an operating model very similar to MLOps but applied to the context of data specifically. Without DataOps any ML initiative would have a hard time getting off the ground. DataOps enables teams to minimize the turnaround time of data analytics cycles while maintaining data quality and integrity.
+3. The bluepoint of MLOps is as follows:
+  - Using a data warehouse or a data lake is a typical storage option for organizations looking to serve transformed data.
+  - 
