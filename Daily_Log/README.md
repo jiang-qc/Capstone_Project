@@ -58,10 +58,6 @@ negative emotional interactions between two or more people
 ## 2022/05/13 Reflection on Friday Speaker Series 1
 
 
-
-
-
-
 ## 2022/05/15 Code Review
 1. Whose code are you reviewing, and where can the review be found?
   - I'm reviewing Xinyi and Chao's EDA code which can be found in the [shared notebook](https://colab.research.google.com/drive/1m8aMhuFXtgO7hhz9OMt_rWaap_GBK0HF#scrollTo=aIjjdXOq7HUA)
@@ -74,9 +70,10 @@ negative emotional interactions between two or more people
 - We met with Jungyeul to discussion the two indications we've came up with, and the next step of our project.
 
 ## 2022/05/17
-- We 
+- I explored more about the readability scores that can be used in our features and some other features like coherence.
 
 ## 2022/05/18
+
 
 ## 2022/05/19
 - Finished code review and teamwork skills reflection
@@ -102,6 +99,14 @@ negative emotional interactions between two or more people
   - Optimize: Using offline evaluation, your data team can rapidly iterate and optimize the model before going live. 
 
 
-## 2022/05/22
+## 2022/05/23
 - I attended a coaching session with Angelique to talk about my job-hunting process. The session helped me reflect on my past experience and know myself better. 
 - My password for the session is: Parachute-Labrador-Recital
+- I read the blog about "Fine-tuning BERT for a regression task" and discussed with teammates about how to implement this to our project.
+
+## 2022/05/24
+- I implemented the BERT model to transcripts and response_1 score.
+- I solved the memory error problem by reducing the batch size down to 4 and tackled the 512-input limitation of Transformer-based model. 
+
+## 2022/05/25
+- I attended the weekly meeting with CFI and got several questions solved.
