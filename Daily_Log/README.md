@@ -110,3 +110,12 @@ negative emotional interactions between two or more people
 
 ## 2022/05/25
 - I attended the weekly meeting with CFI and got several questions solved.
+
+## 2022/05/26
+- Wrote functions to visualize the course speed and redability score to help troubleshoot. 
+
+## 2022/05/27
+- Added the visualization to the presentation
+
+## 2022/05/28
+- Used the general NPS formula to calculate the NPS score and reset the model target.
