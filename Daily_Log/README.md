@@ -72,32 +72,11 @@ negative emotional interactions between two or more people
 ## 2022/05/17
 - I explored more about the readability scores that can be used in our features and some other features like coherence.
 
-## 2022/05/18
-
-
 ## 2022/05/19
 - Finished code review and teamwork skills reflection
 
 ## 2022/05/20
 - I attended the friday talk and wrote the reflection about it.
-
-## 2022/05/20 Reflection on Friday Speaker Series 2
-
-1. MLOps is the fusion of traditional DevOps processes in the context of data science and machine learning. ML processes are data-centric contrasted with the code-centric philosophy of DevOps. Taking learnings and methodologies from DevOps and applying them to the context of Data and ML yields an operating model termed MLOps or DataOps.
-2. DataOps is an operating model very similar to MLOps but applied to the context of data specifically. Without DataOps any ML initiative would have a hard time getting off the ground. DataOps enables teams to minimize the turnaround time of data analytics cycles while maintaining data quality and integrity.
-3. The DataOps enabled pipeline is as follows:
-  - Identify & Collect: The first step in a DataOps enabled pipeline is identifying sources and source systems where the target data lives. 
-  - Process: Once the source data is identified it needs to be processed and transformed into a form that can be analyzed or explored.
-  - Store: Using a data warehouse or a data lake is a typical storage option for organizations looking to serve transformed data.
-  - Problem Formulation: Once a business problem or opportunity for improvement is identified, the data has been landed and transformed, it is time to now frame this problem in an analytical context.
-  - Requirements: The first step of problem formulation would be to come up with hypotheses and requirements that would support this hypothesis.
-  - Explore: This step involves a lot of back and forth between the users or stakeholders that identified the problem or opportunity and analyzing the underlying data to evaluate relationships between data points.
-  - Analytical Framework Selection: The main aspect of the framework selection would be the underlying statistical model that is used to make the prediction or analysis, such as regression, classification or clustering.
-  - Modelling: This is where the features are engineered from the data, the model is trained and tested and finally packaged for the next stage of MLOps which is operationalization.
-  - Extract: In machine learning, features refer to characteristics relating to the proposed hypothesis. The goal is to extract features that contain information about or prove meaningful relationships with the target business problem or improvement opportunity. 
-  - Train: Training is fitting a model to your train data set while maintaining optimal performance and meeting the requirements.
-  - Optimize: Using offline evaluation, your data team can rapidly iterate and optimize the model before going live. 
-
 
 ## 2022/05/23
 - I attended a coaching session with Angelique to talk about my job-hunting process. The session helped me reflect on my past experience and know myself better. 
@@ -117,5 +96,45 @@ negative emotional interactions between two or more people
 ## 2022/05/27
 - Added the visualization to the presentation
 
-## 2022/05/28
-- Used the general NPS formula to calculate the NPS score and reset the model target.
+## 2022/05/30
+- Used the general NPS formula to calculate the NPS score and reset the model target to improve the model performance.
+
+## 2022/05/31
+- Built a NPS prediction model based on the survey data and get a high performance.
+
+## 2022/06/01
+- Discussed with teammates to add some features from the survey model to our linguistic model to improve the model performance.
+- Had the meeting with CFI to present the high performance model
+
+## 2022/06/02
+- Extracted some outlier courses that are counter-intuitive in terms of their NPS score and the feature values.
+- Discussed with teammates the reason behind.
+
+## 2022/06/03
+- Viualized the line graph for the speech of speed in each course
+
+## 2022/06/06
+- Added coherence and readability to the line graph to trouble shoot some problematic sections
+
+## 2022/06/07
+- Made the slides for the presentation and rehearsed with teammates
+
+## 2022/06/08
+- Had the meeting with Pavel and decided the content and date for final presentation
+- Discussed with teammates about how to interpretate our model performance and the linguitic features to audiences
+
+
+## 2022/06/09
+- Generated the positive and negative word coulds separately for each courses
+
+## 2022/06/10
+- Brainstormed about how to make our presentation in a storytelling way
+
+## 2022/06/13
+- Revised the final presentation and discussed to improve the quality
+
+## 2022/06/14
+- Had the meeting with Jungyeul and Ryan to get some suggestions about the final presentation and kept polishing it. 
+
+## 2022/06/15
+- Made the presentation in CFI office and got a bunch of suggestions from the business perspective.
