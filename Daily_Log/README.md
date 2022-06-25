@@ -138,3 +138,28 @@ negative emotional interactions between two or more people
 
 ## 2022/06/15
 - Made the presentation in CFI office and got a bunch of suggestions from the business perspective.
+
+## 2022/06/16
+- Make the eli5 presentation and video
+
+## 2022/06/17
+- Wrote the 25-page final report for submission
+
+## 2022/06/20
+- Made the 5-min flash talk slides and recorded the video for submission. 
+
+## 2022/06/21
+- Rehearsed for the final presentation to CFI CEO and VPs
+
+## 2022/06/22
+- Made the final presentation and it was really successful!
+
+## 2022/06/23
+- Organized the data product
+- Revised the final report according to the mentor suggestions
+
+
+## 2022/06/24 Friday Talk
+
+- Attended the Friday Talk and documenting my code.  
+
