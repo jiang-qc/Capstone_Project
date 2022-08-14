@@ -14,5 +14,7 @@ The [baseline model](https://github.com/jiang-qc/Capstone_Project/blob/main/June
 
 
 The project is finished by the collaboration of Ding Chao, Qichao Jiang, Xinyi Li and Zimo Wang.
+
 The supervisor from CFI is Pavel Nacel.
+
 The Mentor from UBC is Jungyeul Park.
