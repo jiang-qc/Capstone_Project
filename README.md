@@ -10,3 +10,9 @@ Some coding file for visualization are uploaded to the repository.
 2. [Linguistic Features Visualization](https://github.com/jiang-qc/Capstone_Project/blob/main/linguistic_visualization.ipynb)
 
 The [baseline model](https://github.com/jiang-qc/Capstone_Project/blob/main/June_6th_survey_model.ipynb) trained solely on the survey data is also uploaded.
+
+
+
+The project is finished by the collaboration of Ding Chao, Qichao Jiang, Xinyi Li and Zimo Wang.
+The supervisor from CFI is Pavel Nacel.
+The Mentor from UBC is Jungyeul Park.
